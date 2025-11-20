@@ -9,5 +9,7 @@
 	"chameleon-loggedin": "Þú ert skráð/ur inn sem $1",
 	"chameleon-notloggedin": "Þú ert ekki skráð/ur inn.",
 	"chameleon-newmessages": "Þú átt ný skilaboð.",
-	"chameleon-nonewmessages": "Þú átt engin ný skilaboð."
+	"chameleon-nonewmessages": "Þú átt engin ný skilaboð.",
+	"chameleon-search-aria-label": "Fara á síðu",
+	"chameleon-toggler": "Valmynd"
 }
