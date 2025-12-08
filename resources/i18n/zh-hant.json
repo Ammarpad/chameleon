@@ -10,7 +10,7 @@
 	},
 	"skinname-chameleon": "變色龍",
 	"chameleon-desc": "使用Bootstrap 4的高度彈性回應外觀",
-	"chameleon-loggedin": "您已作為$1登錄。",
+	"chameleon-loggedin": "您以$1登入。",
 	"chameleon-notloggedin": "您尚未登入。",
 	"chameleon-newmessages": "您有新訊息。",
 	"chameleon-nonewmessages": "你沒有新訊息。",
