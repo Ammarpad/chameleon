@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin"
+		]
+	},
+	"chameleon-loggedin": "ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦱꦩ꧀ꦥꦸꦤ꧀​ꦩ꧀ꦊꦧꦸ​ꦭꦺꦴꦒ꧀ꦢꦢꦶ$1",
+	"chameleon-notloggedin": "ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦢꦸꦫꦸꦁ​ꦩ꧀ꦊꦧꦸ​ꦭꦺꦴꦒ꧀꧈",
+	"chameleon-newmessages": "ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦢꦸꦮꦺ​ꦭꦪꦁ​ꦲꦚꦂ꧉",
+	"chameleon-nonewmessages": "ꦱꦩ꧀ꦥꦺꦪꦤ꧀ꦲꦺꦴꦫ​ꦢꦸꦮꦺ​ꦭꦪꦁ​ꦲꦚꦂ꧉",
+	"chameleon-search-aria-label": "ꦩꦼꦚꦁ​ꦏꦕ",
+	"chameleon-toggler": "ꦩꦼꦤꦸ"
+}
